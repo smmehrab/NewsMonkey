@@ -1,0 +1,27 @@
+{
+  "name": "newsmonkey",
+  "version": "1.0.0",
+  "description": "A newsBot for programmers which will deliver top news from 'https://hckrnews.com/' on a daily basis via email.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smmehrab/newsMonkey.git"
+  },
+  "author": "smmehrab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smmehrab/newsMonkey/issues"
+  },
+  "homepage": "https://github.com/smmehrab/newsMonkey#readme",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "fs": "0.0.1-security",
+    "node-windows": "^1.0.0-beta.1",
+    "nodemailer": "^6.4.6",
+    "puppeteer": "^3.0.2",
+    "redis": "^3.0.2"
+  }
+}
