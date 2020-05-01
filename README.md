@@ -10,7 +10,7 @@ A personal fun project for the sake of automating daily news fetching from **Hac
 
 Make sure you have [nodejs](https://nodejs.org/en/download/) set up in your computer.
 
-**SET UP YOUR MONKEY**
+### Set Up Your Monkey
 
 You may want to create a additional gmail address (Or use the gmail account that you don't use officially), because the software will need that to serve as the bot (To send you the mails). Let's call that email as **monkeyEmail**, that email's password as **monkeyEmailPassword** & the email to which the news will be sent,  as **receiverEmail** (I am not kidding). Let's call the time to send email, as newsTime (**24 Hour Format**, consisting of **newsHour** & **newsMinute**.
 
