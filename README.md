@@ -1,3 +1,4 @@
+
 # News Monkey
 
 A personal fun project for the sake of automating daily news fetching from **Hacker News**. 
@@ -24,6 +25,9 @@ For **monkeyEmail**, do the followings -
 > **Note:** Otherwise google will not give permission to let this software use that email.
 
 <br/>
+
+> **Note:** Hey, there! I haven't yet implemented anything to handle installation error. So, while installing,  you might get some errors as the headless chromium browser will internally be downloaded. Please, keep trying again until it gets installed successfully without throwing any errors. Good days will come!
+
 
 ### Windows
 
