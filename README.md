@@ -40,7 +40,7 @@ For **monkeyEmail**, do the followings -
 		 
 	 > **Note:** Later on, you can rewrite configure.txt file if you want to change any of these.
 		 
-- Method 2 
+- Method 2 (Recommended)
 	
 	Open configure.txt file and follow the given syntax to write to it -
 	```javascript
@@ -50,9 +50,11 @@ For **monkeyEmail**, do the followings -
 	Run the following commands on command prompt - 
 	
 	```javascript
-	npm install 
+	npm install
+	npm install puppeteer  
 	node installOnWindows.js
 	```
+	You may face difficulty installing puppeteer as its a comparatively heavy installation. Please, keep trying in case if it fails.
 	And you are good to go!
 		
 <br/>
